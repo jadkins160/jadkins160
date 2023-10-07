@@ -1,0 +1,68 @@
+#index-body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: silver;
+}
+
+#info-body > form {
+  background-color: silver;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  text-shadow: 5px 5px 5px #F08080, 2px 2px 2px black;
+}
+
+table {
+  padding-left: 60px;
+}
+
+hr {
+  height: 2px; 
+  background-color: darkgray; 
+  border: none;
+}
+
+.center {
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+blockquote {
+  font-style: italic;
+  text-align: left;
+}
+
+.emphasized {
+  font-style: italic;
+}
+
+h2 {
+    text-decoration: underline;
+    
+}
+
+.quotes-section {
+    text-decoration: underline;
+}
+
+form {
+  padding-top: 10px;
+}
+
+.image1 img {
+  float: right;
+  padding-right: 450px;
+}
+
+.image2 img {
+  float: right;
+  padding-right: 350px;
+}
